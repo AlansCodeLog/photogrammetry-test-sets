@@ -12,7 +12,7 @@ To make attribution easy, all the repos have an attribution template filled out 
 
 ### My Test Sets
 
-#### Notes
+#### Sets Used in this Video: [How to Scan Objects into 3D Models II - Settings and Setup Comparisons](https://youtu.be/7pGJ8rWiecw)
 
 - [Dice - Turntable - Strong Lights - Heavily Textured w Watercolors](https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors)
 - [Dice - Turntable - Strong Lights - Opaque Watercolors](https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-opaque-watercolors)
